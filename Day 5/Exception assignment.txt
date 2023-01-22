@@ -1,0 +1,26 @@
+41.Write a program that accepts 2 integers a and b as input and finds the quotient of a/b. 
+ 
+This program generates DivideByZeroException when the denominator is zero. Use exception handling mechanisms to handle this exception. In the catch block, print the message as shown in the sample output. 
+?Also illustrate the use of finally block. Print the message “Inside finally block. 
+
+42. Write a program to demonstrate the use of throws clause.
+Raise FileNotFoundException , IoException
+
+43. Write program to demonstrate use of multiple catch clauses.
+ Use General catch clause and finally
+
+44.Write program to merge alternate character of two files into third file. 
+Handle the exceptions.
+
+45. Write a program that accepts the age of the user as input. When the age of the user is less than 19, a custom exception named InvalidAgeException is thrown. 
+Use exception handling mechanisms to handle this exception. 
+
+46. Write program to demonstrate use of try with resource
+
+47. Write program to throw and handle following exceptions explicitly. Use multiple catches
+1.NullPointerException
+2.ArithmeticException
+3.FileNotFoundException
+
+48. Write  program to accept records of Item (itemId,name,price) from user and store into ArrayList.
+If ArrayList is empty throw user defined CartEmptyException else display records from arraylist as cart
